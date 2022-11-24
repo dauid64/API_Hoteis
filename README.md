@@ -27,6 +27,7 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 <p>Requisição exemplo de quando o usuário pesquisar por um hotel que não existe.</p>
  
  ![image](https://user-images.githubusercontent.com/94979678/203690400-053a613a-a14d-4f7d-a5bc-05d039e4cab4.png)
+ ![image](https://user-images.githubusercontent.com/94979678/203690990-0ff6bd41-5ae3-4a13-bd93-0e575f70540e.png)
 
 <h3>Resposta</h3>
 <p>Como resposta, obtém-se uma mensagem de erro, dizendo que o hotel não foi encontrado.</p>
