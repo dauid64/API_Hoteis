@@ -44,7 +44,11 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 
 ![image](https://user-images.githubusercontent.com/94979678/203690716-ab411b33-645e-44ab-a52e-54fbc01c34d6.png)
 
+<h3>Resposta</h3>
+<p>Como resposta, obtém-se uma mensagem de sucesso informado que usuário foi criado, e status code 201 Created (Criado).</p>
 
+![image](https://user-images.githubusercontent.com/94979678/203690863-739ac7a5-357e-4662-8606-2f30b30b8d86.png)
+![image](https://user-images.githubusercontent.com/94979678/203690898-756a9b14-d59d-4644-9388-f9e988b3a8cd.png)
 
 
  
