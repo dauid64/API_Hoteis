@@ -7,7 +7,7 @@ Este documento especifica como utilizar os recursos disponíveis no REST API de 
 
 Requisição para listar todos os hotéis do sistema, podendo opcionalmente receber filtros personalizados via path, de forma que se o cliente não definir nenhum parâmetro de consulta (nenhum filtro), os parâmetros receberão os valores padrão.
 
-⦁	Possíveis parâmetros de consulta
+<p>⦁	Possíveis parâmetros de consulta</p>
   ⦁	cidade ⇒ Filtrar hotéis pela cidade escolhida. Padrão: Nulo 
   ⦁	estrelas_min ⇒ Avaliações mínimas de hotéis de 0 a 5. Padrão: 0
   ⦁	estrelas_max ⇒ Avaliações máximas de hotéis de 0 a 5. Padrão: 5
