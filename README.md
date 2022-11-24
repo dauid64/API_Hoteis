@@ -16,6 +16,15 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦁	limit ⇒ Quantidade máxima de elementos exibidos por página. Padrão: 50 </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦁	offset ⇒ Quantidade de elementos pular (geralmente múltiplo de limit). Padrão: 0 </p>
   
- ![image](https://user-images.githubusercontent.com/94979678/203684630-6da2562b-25e7-482f-8109-32214e05b6b2.png)
+![image](https://user-images.githubusercontent.com/94979678/203685476-0c738b71-8ef4-4358-a9ef-333eca19d910.png)
+ 
+ <h3>Resposta</h3>
+ <p>Como resposta, obtém-se uma lista de hotéis que se enquadram nos filtros da requisição acima:</p>
+ 
+ ![image](https://user-images.githubusercontent.com/94979678/203685507-7335b3e9-aba5-4c66-aa80-7c87357fc596.png)
+
+ 
+ 
+
 
 
