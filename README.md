@@ -66,7 +66,6 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 <p>Como resposta, obtém-se uma mensagem de erro, informando que um usuário chamado “ana” já existe.</p>
 
 ![image](https://user-images.githubusercontent.com/94979678/203691500-3f001f8d-2c8f-4e4b-8929-20d8f0d5cdfa.png)
-
 ![image](https://user-images.githubusercontent.com/94979678/203691518-ab69454d-dba9-4043-8b42-245c6334fd5d.png)
 
 
