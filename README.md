@@ -18,10 +18,21 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
   
 ![image](https://user-images.githubusercontent.com/94979678/203685476-0c738b71-8ef4-4358-a9ef-333eca19d910.png)
  
- <h3>Resposta</h3>
- <p>Como resposta, obtém-se uma lista de hotéis que se enquadram nos filtros da requisição acima:</p>
+<h3>Resposta</h3>
+<p>Como resposta, obtém-se uma lista de hotéis que se enquadram nos filtros da requisição acima:</p>
  
- ![image](https://user-images.githubusercontent.com/94979678/203685507-7335b3e9-aba5-4c66-aa80-7c87357fc596.png)
+![image](https://user-images.githubusercontent.com/94979678/203685507-7335b3e9-aba5-4c66-aa80-7c87357fc596.png)
+ 
+<h3>Requisição</h3>
+<p>Requisição exemplo de quando o usuário pesquisar por um hotel que não existe.</p>
+ 
+ ![image](https://user-images.githubusercontent.com/94979678/203690400-053a613a-a14d-4f7d-a5bc-05d039e4cab4.png)
+
+<h3>Resposta</h3>
+<p>Como resposta, obtém-se uma mensagem de erro, dizendo que o hotel não foi encontrado.</p>
+
+![image](https://user-images.githubusercontent.com/94979678/203690441-46e68ad9-4595-45b6-ab15-f9fbaa6d278b.png)
+
 
  
  
