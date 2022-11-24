@@ -53,8 +53,11 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 ![image](https://user-images.githubusercontent.com/94979678/203690863-739ac7a5-357e-4662-8606-2f30b30b8d86.png)
 ![image](https://user-images.githubusercontent.com/94979678/203690898-756a9b14-d59d-4644-9388-f9e988b3a8cd.png)
 
+<h3>Requisição</h3>
+<p>Exemplo de Requisição para tentar cadastrar outro usuário com login “Adm”. </p>
 
- 
+![image](https://user-images.githubusercontent.com/94979678/203691321-da8eedc1-b544-4216-ad8e-18cce3ee20e1.png)
+
  
 
 
