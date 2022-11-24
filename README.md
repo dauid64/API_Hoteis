@@ -5,4 +5,4 @@ Este documento especifica como utilizar os recursos disponíveis no REST API de 
 <h2>1. Consultar Hotéis</h2>
 
 <h3>Requisição</h3>
-<p>Requisição para listar todos os hotéis do sistema, podendo opcionalmente receber filtros personalizados via path, de forma que se o cliente não definir nenhum parâmetro de consulta (nenhum filtro), os parâmetros receberão os valores padrão.</p>
+Requisição para listar todos os hotéis do sistema, podendo opcionalmente receber filtros personalizados via path, de forma que se o cliente não definir nenhum parâmetro de consulta (nenhum filtro), os parâmetros receberão os valores padrão.
