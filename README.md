@@ -33,6 +33,19 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 
 ![image](https://user-images.githubusercontent.com/94979678/203690441-46e68ad9-4595-45b6-ab15-f9fbaa6d278b.png)
 
+<h2>2. Cadastro de Usuário</h2>
+
+<h3>Requisição</h3>
+<p>Exemplo de Requisição cadastrar um novo usuário.</p>
+
+![image](https://user-images.githubusercontent.com/94979678/203690596-dda58aac-a761-48d1-8744-7eeadabff393.png)
+
+![image](https://user-images.githubusercontent.com/94979678/203690660-62f224bc-9200-44e5-8e62-4a2b6a5a5ef0.png)
+
+![image](https://user-images.githubusercontent.com/94979678/203690716-ab411b33-645e-44ab-a52e-54fbc01c34d6.png)
+
+
+
 
  
  
