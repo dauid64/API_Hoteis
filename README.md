@@ -15,3 +15,7 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦁	diaria_max ⇒ Valor máximo da diária do hotel de R$ 0 a R$ 10.000,00. Padrão: 10000 </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦁	limit ⇒ Quantidade máxima de elementos exibidos por página. Padrão: 50 </p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⦁	offset ⇒ Quantidade de elementos pular (geralmente múltiplo de limit). Padrão: 0 </p>
+  
+ ![image](https://user-images.githubusercontent.com/94979678/203684630-6da2562b-25e7-482f-8109-32214e05b6b2.png)
+
+
