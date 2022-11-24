@@ -22,6 +22,8 @@ Requisição para listar todos os hotéis do sistema, podendo opcionalmente rece
 <p>Como resposta, obtém-se uma lista de hotéis que se enquadram nos filtros da requisição acima:</p>
  
 ![image](https://user-images.githubusercontent.com/94979678/203685507-7335b3e9-aba5-4c66-aa80-7c87357fc596.png)
+![image](https://user-images.githubusercontent.com/94979678/203691116-32c757ef-9099-4df2-b6ad-df1b2c73e10b.png)
+
  
 <h3>Requisição</h3>
 <p>Requisição exemplo de quando o usuário pesquisar por um hotel que não existe.</p>
